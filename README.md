@@ -11,7 +11,7 @@
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I got into programming through mobile apps. Built a UI library that somehow ended up in thousands of apps, spent years on React Native, and now I work on Microsoft Teams. Side projects are where the fun stuff happens.
+8+ years professionally building frontend apps. Started with mobile, built React Native Paper — now used by thousands of people. Been at Microsoft Teams for over four years, working on the apps layer. Currently deep into vibecoding. If I have a problem, I don't stop until it's solved. Still working on a lot of things I haven't made public yet.
 
 ## Projects
 
