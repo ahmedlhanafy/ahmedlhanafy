@@ -15,6 +15,8 @@ I got into programming through mobile apps. Built a UI library that somehow ende
 
 ## Projects
 
+🧠 **[Kangae.ai](https://kangae.ai)** - Infinite canvas for spatial thinking. Drag in docs, images, URLs — organize them on a grid, connect them into knowledge graphs, and generate content with multiple LLMs side by side.
+
 🗣️ **[Yapper](https://github.com/ahmedlhanafy/yapper)** - Dictation for macOS. Press a hotkey, talk, it types. Whisper runs locally — your voice never leaves your machine. Plug in OpenAI, Anthropic, or Ollama if you want it to clean up what you said.
 
 📱 **[React Native Paper](https://github.com/callstack/react-native-paper)** - Material Design components for React Native. I was one of the early authors back when it was just getting started. Now it has 14k+ stars and 330+ contributors. Wild.
