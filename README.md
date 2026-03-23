@@ -19,7 +19,7 @@
 
 🗣️ **[Yapper](https://github.com/ahmedlhanafy/yapper)** - Dictation for macOS. Press a hotkey, talk, it types. Whisper runs locally — your voice never leaves your machine. Plug in OpenAI, Anthropic, or Ollama if you want it to clean up what you said.
 
-📱 **[React Native Paper](https://github.com/callstack/react-native-paper)** - Material Design components for React Native. I was one of the early authors back when it was just getting started. Now it has 14k+ stars and 330+ contributors. Wild.
+📱 **[React Native Paper](https://github.com/callstack/react-native-paper)** - Material Design components for React Native. I was one of the early authors back when it was just getting started. Now it has 14k+ stars and 330+ contributors.
 
 🌡️ **[Pyfinity](https://github.com/ahmedlhanafy/pyfinity)** - My Carrier thermostat didn't have WiFi, so I reverse-engineered the RS-485 bus protocol and built a web UI to control it from my phone.
 
