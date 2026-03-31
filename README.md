@@ -21,7 +21,7 @@
 
 📱 **[React Native Paper](https://github.com/callstack/react-native-paper)** - Material Design components for React Native. I was one of the early authors back when it was just getting started. Now it has 14k+ stars and 330+ contributors.
 
-🎬 **[ByteSized](https://github.com/ahmedlhanafy/bytesized)** - Educational CS videos made entirely with code. Remotion for animations, ElevenLabs for voiceover, no video editors involved. Topics so far: SHA-256, markdown parsing, CRDTs, Claude Code skills. [Watch on Instagram](https://www.instagram.com/bytesized2026/reels/).
+🎬 **[ByteSized](https://www.instagram.com/bytesized2026/reels/)** - Educational CS videos made entirely with code. Remotion for animations, ElevenLabs for voiceover, no video editors involved. Topics so far: SHA-256, markdown parsing, CRDTs, Claude Code skills.
 
 🎙️ **[Readcast](https://github.com/ahmedlhanafy/readcast)** - Save articles, get podcasts. A Chrome extension queues up articles throughout the day, then AI summarizes them, writes a radio-show script, and generates audio with ElevenLabs. Built with React, Expo, Supabase, and TypeScript.
 
